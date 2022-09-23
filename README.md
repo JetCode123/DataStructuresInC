@@ -1,2 +1,2 @@
 # DataStructuresInC
-C implementation Data structures
+C Implementation Data structures
