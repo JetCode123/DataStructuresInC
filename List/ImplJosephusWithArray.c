@@ -27,7 +27,7 @@ int main(void) {
     /* FinalID测试:*/
     printf("f(n=9,k=2): %d\n", josephusFinalID(9, 2));
     printf("f(8,3): %d\n", josephusFinalID(8,3));
-
+    
 /*    
     Circle c = {1,2,3,4,5,6,7,8,9,10};
     printf("circle(5): %d\n",c[5]); */
